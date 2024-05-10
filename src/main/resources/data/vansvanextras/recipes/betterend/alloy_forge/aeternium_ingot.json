@@ -1,0 +1,23 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "item": "betterend:terminite_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "output": {
+    "id": "betterend:aeternium_ingot",
+    "count": 1
+  },
+  "overrides": {
+    "4+": {
+      "id": "betterend:aeternium_ingot",
+      "count": 2
+    }
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 10
+}

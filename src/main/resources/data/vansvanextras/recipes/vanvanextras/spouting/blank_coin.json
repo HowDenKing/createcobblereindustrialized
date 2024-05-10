@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:filling",
+  "ingredients":[
+    {"item":"vanvanextras:coin_mold"},
+    {"amount":9000,"fluid":"vanvanextras:molten_gold"}
+  ],
+  "results":[
+    {"item":"vanvanextras:blank_coin"}
+  ]
+}

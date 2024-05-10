@@ -1,0 +1,37 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "heatRequirement":"heated",
+  "ingredients":[
+    {
+		"item": "spectrum:mermaids_gem"
+    },
+    {
+		"item": "spectrum:mermaids_gem"
+    },
+    {
+		"item": "spectrum:shimmerstone_gem"
+    },
+    {
+		"item": "spectrum:shimmerstone_gem"
+    },
+	{
+		"amount": 16200, "fluid":"vanvanextras:pink_pigment"
+	},
+	{
+		"amount": 16200, "fluid":"vanvanextras:yellow_pigment"
+	}
+  ],
+  "results":[
+    {
+      "amount": 81000, "fluid":"spectrum:liquid_crystal"
+    }
+  ]
+}

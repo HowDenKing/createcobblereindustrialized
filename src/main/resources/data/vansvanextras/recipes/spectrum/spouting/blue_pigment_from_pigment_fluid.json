@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:filling",
+  "ingredients":[
+    {"item":"minecraft:glass_bottle"},
+    {"amount":8100,"fluid":"vanvanextras:blue_pigment"}
+  ],
+  "results":[
+    {"item":"spectrum:blue_pigment"}
+  ]
+}

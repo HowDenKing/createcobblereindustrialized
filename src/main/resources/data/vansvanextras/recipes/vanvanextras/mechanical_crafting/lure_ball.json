@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "vanvanextras:blue_apricorn_ball_piece"
+    },
+    "I": {
+      "item": "vanvanextras:green_apricorn_ball_piece"
+    },
+    "L": {
+      "item": "vanvanextras:red_apricorn_ball_piece"
+    },
+    "S": {
+      "item": "vanvanextras:iron_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "I",
+    "L",
+    "L",
+    "S"
+  ],
+  "result": {
+    "item": "cobblemon:lure_ball"
+  }
+}

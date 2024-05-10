@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "vanvanextras:white_apricorn_plate"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+	  "count": 4,
+      "item": "vanvanextras:white_apricorn_ball_piece"
+    }
+  ]
+}

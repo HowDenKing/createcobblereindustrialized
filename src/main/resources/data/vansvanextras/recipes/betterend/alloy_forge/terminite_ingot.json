@@ -1,0 +1,23 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:iron_ingots"
+    },
+    {
+      "item": "betterend:ender_dust"
+    }
+  ],
+  "output": {
+    "id": "betterend:terminite_ingot",
+    "count": 1
+  },
+  "overrides": {
+    "4+": {
+      "id": "betterend:terminite_ingot",
+      "count": 2
+    }
+  },
+  "min_forge_tier": 3,
+  "fuel_per_tick": 10
+}

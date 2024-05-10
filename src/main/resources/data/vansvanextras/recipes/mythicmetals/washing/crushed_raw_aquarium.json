@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_aquarium"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:aquarium_nugget"
+    }
+  ]
+}

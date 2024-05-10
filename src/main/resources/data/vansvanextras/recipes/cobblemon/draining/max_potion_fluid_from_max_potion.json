@@ -1,0 +1,24 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:emptying",
+  "ingredients":[
+    {
+      "item": "cobblemon:max_potion"
+    }
+  ],
+  "results":[
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 27000, "fluid":"vanvanextras:max_potion"
+    }
+  ]
+}

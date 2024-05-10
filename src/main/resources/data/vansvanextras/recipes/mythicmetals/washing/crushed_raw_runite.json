@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_runite"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:runite_nugget"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_stormyx"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:stormyx_nugget"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_manganese"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:manganese_nugget"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "runite_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_runite"
+  },
+  "result": "mythicmetals:runite_ingot"
+}

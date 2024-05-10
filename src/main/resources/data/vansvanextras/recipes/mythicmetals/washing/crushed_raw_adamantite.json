@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_adamantite"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:adamantite_nugget"
+    }
+  ]
+}

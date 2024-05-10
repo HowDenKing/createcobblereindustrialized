@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "midas_gold_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_midas_gold"
+  },
+  "result": "mythicmetals:midas_gold_ingot"
+}

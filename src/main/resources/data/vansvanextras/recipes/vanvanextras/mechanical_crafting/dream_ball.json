@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "vanvanextras:blue_apricorn_ball_piece"
+    },
+    "I": {
+      "item": "vanvanextras:pink_apricorn_ball_piece"
+    },
+    "K": {
+      "item": "vanvanextras:red_apricorn_ball_piece"
+    },
+    "S": {
+      "item": "vanvanextras:diamond_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "I",
+    "K",
+    "K",
+    "S"
+  ],
+  "result": {
+    "item": "cobblemon:dream_ball"
+  }
+}

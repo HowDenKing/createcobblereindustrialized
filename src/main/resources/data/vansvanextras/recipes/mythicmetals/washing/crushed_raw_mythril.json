@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_mythril"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:mythril_nugget"
+    }
+  ]
+}

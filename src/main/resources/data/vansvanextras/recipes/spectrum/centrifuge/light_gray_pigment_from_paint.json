@@ -1,0 +1,16 @@
+{
+  "type": "estrogen:centrifuging",
+  "ingredients": [
+    {
+      "amount": 81,
+      "fluid": "vanvanextras:light_gray_paint",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "amount": 81,
+      "fluid": "vanvanextras:light_gray_pigment"
+    }
+  ]
+}

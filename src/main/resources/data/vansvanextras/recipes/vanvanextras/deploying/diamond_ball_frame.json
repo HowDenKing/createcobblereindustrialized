@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "vanvanextras:ball_mold"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "keepHeldItem": false,
+  "results": [
+    {
+	  "count": 6,
+      "item": "vanvanextras:diamond_ball_frame"
+    }
+  ]
+}

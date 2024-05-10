@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "vanvanextras:freshly_minted_coin"
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:relic_coin"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "kyber_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_kyber"
+  },
+  "result": "mythicmetals:kyber_ingot"
+}

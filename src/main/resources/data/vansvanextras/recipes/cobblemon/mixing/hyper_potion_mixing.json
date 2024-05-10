@@ -1,0 +1,25 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "heatRequirement":"heated",
+  "ingredients":[
+    {
+		"item": "cobblemon:sitrus_berry"
+    },
+    {
+		"amount": 81000, "fluid":"vanvanextras:medicinal_brew"
+    }
+  ],
+  "results":[
+    {
+      "amount": 81000, "fluid":"vanvanextras:hyper_potion"
+    }
+  ]
+}

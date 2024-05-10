@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mythicmetals:raw_silver"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "clutter:raw_silver"
+  }
+}

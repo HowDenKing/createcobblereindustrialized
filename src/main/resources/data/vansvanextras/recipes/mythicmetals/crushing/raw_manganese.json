@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mythicmetals:raw_manganese"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "vanvanextras:crushed_raw_manganese"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

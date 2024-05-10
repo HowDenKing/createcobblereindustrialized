@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mythicmetals:raw_prometheum"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "vanvanextras:crushed_raw_prometheum"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

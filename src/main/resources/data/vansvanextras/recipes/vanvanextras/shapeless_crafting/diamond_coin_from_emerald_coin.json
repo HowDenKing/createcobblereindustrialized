@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanvanextras:emerald_coin"
+    },
+    {
+      "item": "vanvanextras:emerald_coin"
+    },
+    {
+      "item": "vanvanextras:emerald_coin"
+    },
+    {
+      "item": "vanvanextras:emerald_coin"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "vanvanextras:diamond_coin"
+  }
+}

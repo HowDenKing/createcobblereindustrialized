@@ -1,0 +1,24 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "ingredients":[
+    {
+		"item": "cobblemon:heal_powder"
+    },
+    {
+		"amount": 20250, "fluid":"create:honey"
+    }
+  ],
+  "results":[
+    {
+      "item": "cobblemon:revive"
+    }
+  ]
+}

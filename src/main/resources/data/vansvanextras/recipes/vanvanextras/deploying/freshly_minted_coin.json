@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "vanvanextras:blank_coin"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "keepHeldItem": false,
+  "results": [
+    {
+      "item": "vanvanextras:freshly_minted_coin"
+    }
+  ]
+}

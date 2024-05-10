@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "vanvanextras:ball_mold"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "keepHeldItem": false,
+  "results": [
+    {
+	  "count": 5,
+      "item": "vanvanextras:gold_ball_frame"
+    }
+  ]
+}

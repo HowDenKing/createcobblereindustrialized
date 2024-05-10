@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "cobblemon:red_apricorn"
+    }
+  ],
+  "results": [
+    {
+      "item": "vanvanextras:red_apricorn_plate"
+    }
+  ]
+}

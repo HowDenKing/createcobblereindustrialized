@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "mythril_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_mythril"
+  },
+  "result": "mythicmetals:mythril_ingot"
+}

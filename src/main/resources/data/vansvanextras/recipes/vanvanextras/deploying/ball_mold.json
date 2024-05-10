@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "cobblemon:iron_ball"
+    }
+  ],
+  "keepHeldItem": true,
+  "results": [
+    {
+      "item": "vanvanextras:ball_mold"
+    }
+  ]
+}

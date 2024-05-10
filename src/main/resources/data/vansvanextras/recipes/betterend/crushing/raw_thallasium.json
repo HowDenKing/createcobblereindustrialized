@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "betterend:thallasium_raw"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "vanvanextras:crushed_raw_thallasium"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

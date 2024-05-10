@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_orichalcum"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:orichalcum_nugget"
+    }
+  ]
+}

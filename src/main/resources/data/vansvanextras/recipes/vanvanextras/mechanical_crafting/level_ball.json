@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "vanvanextras:black_apricorn_ball_piece"
+    },
+    "I": {
+      "item": "vanvanextras:red_apricorn_ball_piece"
+    },
+    "L": {
+      "item": "vanvanextras:pink_apricorn_ball_piece"
+    },
+    "K": {
+      "item": "vanvanextras:yellow_apricorn_ball_piece"
+    },
+    "S": {
+      "item": "vanvanextras:iron_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "I",
+    "L",
+    "K",
+    "S"
+  ],
+  "result": {
+    "item": "cobblemon:level_ball"
+  }
+}

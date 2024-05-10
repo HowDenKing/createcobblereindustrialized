@@ -1,0 +1,83 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "spectrum:bismuth_block"
+    }
+  ],
+  "processingTime": 800,
+  "results": [
+    {
+      "chance": 0.05,
+      "item": "cobblemon:normal_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:fire_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:water_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:grass_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:electric_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:rock_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:ground_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:bug_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:poison_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:ghost_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:psychic_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:dark_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:fairy_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:dragon_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:ice_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:fighting_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:flying_gem"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:steel_gem"
+    }
+  ]
+}

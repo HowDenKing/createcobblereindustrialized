@@ -1,0 +1,42 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "ingredients":[
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+    {
+		"item": "nethervinery:crimson_grape"
+    },
+	{
+		"item": "vinery:wine_bottle"
+    },
+	{
+		"item": "vinery:wine_bottle"
+    }
+  ],
+  "results":[
+    {
+      "count": 2,"item":"nethervinery:crimson_grapejuice"
+    }
+  ]
+}

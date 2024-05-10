@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_thallasium"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "betterend:thallasium_nugget"
+    }
+  ]
+}

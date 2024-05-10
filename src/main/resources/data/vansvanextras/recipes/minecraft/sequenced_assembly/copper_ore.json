@@ -1,0 +1,71 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:infested_stone"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "minecraft:copper_ore"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        },
+        {
+          "amount": 16200,
+          "fluid": "vanvanextras:molten_copper",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        },
+        {
+          "amount": 8100,
+          "fluid": "estrogen:molten_amethyst",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        },
+        {
+          "amount": 8100,
+          "fluid": "estrogen:testosterone_mixture",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "vanvanextras:incomplete_ore_item"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "vanvanextras:incomplete_ore_item"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "cincinnasite_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_cincinnasite"
+  },
+  "result": "betternether:cincinnasite_ingot"
+}

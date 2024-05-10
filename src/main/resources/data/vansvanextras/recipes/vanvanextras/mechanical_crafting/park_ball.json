@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "vanvanextras:green_apricorn_ball_piece"
+    },
+    "I": {
+      "item": "vanvanextras:red_apricorn_ball_piece"
+    },
+    "S": {
+      "item": "vanvanextras:iron_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "H",
+    "H",
+    "I",
+    "S"
+  ],
+  "result": {
+    "item": "cobblemon:park_ball"
+  }
+}

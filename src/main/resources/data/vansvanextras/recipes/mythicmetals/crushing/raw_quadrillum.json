@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mythicmetals:raw_quadrillum"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "vanvanextras:crushed_raw_quadrillum"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    }
+  ]
+}

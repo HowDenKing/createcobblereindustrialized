@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "create:golden_sheet"
+    },
+    "L": {
+      "item": "minecraft:echo_shard"
+    },
+    "S": {
+      "item": "vanvanextras:diamond_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "L",
+    "S"
+  ],
+  "result": {
+	"count": 2,
+    "item": "cobblemon:beast_ball"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "prometheum_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_prometheum"
+  },
+  "result": "mythicmetals:prometheum_ingot"
+}

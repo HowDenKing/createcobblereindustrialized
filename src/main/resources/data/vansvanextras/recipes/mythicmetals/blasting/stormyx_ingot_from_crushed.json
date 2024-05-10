@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "stormyx_ingot",
+  "ingredient": {
+    "item": "vanvanextras:crushed_raw_stormyx"
+  },
+  "result": "mythicmetals:stormyx_ingot"
+}

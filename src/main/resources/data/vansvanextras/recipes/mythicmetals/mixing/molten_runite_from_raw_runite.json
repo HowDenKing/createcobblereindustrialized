@@ -1,0 +1,25 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "heatRequirement":"superheated",
+  "ingredients":[
+    {
+		"item": "mythicmetals:raw_runite"
+    },
+	{
+		"amount":10125, "fluid":"minecraft:lava"
+	}
+  ],
+  "results":[
+    {
+      "amount": 6075, "fluid":"vanvanextras:molten_runite"
+    }
+  ]
+}

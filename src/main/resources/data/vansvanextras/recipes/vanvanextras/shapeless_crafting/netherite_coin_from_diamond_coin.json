@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vanvanextras:diamond_coin"
+    },
+    {
+      "item": "vanvanextras:diamond_coin"
+    },
+    {
+      "item": "vanvanextras:diamond_coin"
+    },
+    {
+      "item": "vanvanextras:diamond_coin"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "vanvanextras:netherite_coin"
+  }
+}

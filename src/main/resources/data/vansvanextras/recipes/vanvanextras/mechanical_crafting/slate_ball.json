@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "H": {
+      "item": "vanvanextras:black_apricorn_ball_piece"
+    },
+    "S": {
+      "item": "vanvanextras:copper_ball_frame"
+    }
+  },
+  "pattern": [
+    "H",
+    "H",
+    "H",
+    "H",
+    "S"
+  ],
+  "result": {
+    "item": "cobblemon:slate_ball"
+  }
+}

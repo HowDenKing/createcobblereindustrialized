@@ -1,0 +1,27 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "ingredients":[
+    {
+		"item": "vanvanextras:copper_dust"
+    },
+    {
+		"item": "minecraft:pink_dye"
+    },
+	{
+		"amount": 81000, "fluid":"createaddition:seed_oil"
+	}
+  ],
+  "results":[
+    {
+      "amount": 81000, "fluid":"vanvanextras:pink_paint"
+    }
+  ]
+}

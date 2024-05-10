@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "vanvanextras:crushed_raw_midas_gold"
+    }
+  ],
+  "results": [
+    {
+      "count": 9,
+      "item": "mythicmetals:midas_gold_nugget"
+    }
+  ]
+}

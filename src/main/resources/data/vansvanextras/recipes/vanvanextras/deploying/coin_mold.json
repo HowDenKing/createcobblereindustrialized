@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:clay"
+    },
+    {
+      "item": "cobblemon:relic_coin"
+    }
+  ],
+  "keepHeldItem": true,
+  "results": [
+    {
+      "item": "vanvanextras:coin_mold"
+    }
+  ]
+}
