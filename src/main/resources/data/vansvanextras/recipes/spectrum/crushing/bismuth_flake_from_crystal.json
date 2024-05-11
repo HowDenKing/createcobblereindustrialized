@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "spectrum:bismuth_crystal"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+	  "count": 4,
+      "item": "spectrum:bismuth_flake"
+    },
+    {
+	  "chance": 25.0,
+	  "count": 2,
+      "item": "spectrum:bismuth_flake"
+    },
+  ]
+}
