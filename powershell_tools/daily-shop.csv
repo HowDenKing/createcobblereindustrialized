@@ -13,7 +13,7 @@ minecraft:beetroot_seeds,clutter:copper_coin,30,1,1
 minecraft:carrot,clutter:copper_coin,30,1,1
 minecraft:potato,clutter:copper_coin,30,1,1
 minecraft:wither_rose,clutter:silver_coin,20,1,3
-minecraft:dragon_head,clutter:diamon_coin,1,1,5
+minecraft:dragon_head,vanvanextras:diamond_coin,1,1,5
 cobblemon:medicinal_leek,clutter:silver_coin,10,1,2
 cobblemon:vivichoke_seeds,clutter:golden_coin,2,1,2
 cobblemon:big_root,clutter:silver_coin,10,1,2
@@ -135,3 +135,7 @@ herbalbrews:lavender,clutter:copper_coin,30,1,2
 herbalbrews:rooibos_leaf,clutter:copper_coin,30,1,2
 herbalbrews:yerba_mate_leaf,clutter:copper_coin,30,1,2
 herbalbrews:coffee_beans,clutter:copper_coin,30,1,2
+fruitfulfun:citron_sapling,clutter:copper_coin,50,1,2
+fruitfulfun:tangerine_sapling,clutter:copper_coin,50,1,2
+fruitfulfun:lime_sapling,clutter:copper_coin,50,1,2
+fruitfulfun:tangerine_sapling,clutter:copper_coin,50,1,2
