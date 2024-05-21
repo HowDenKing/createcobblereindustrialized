@@ -101,7 +101,7 @@ clutter:hops_seeds,clutter:copper_coin,30,1,2
 clutter:cotton_seeds,clutter:copper_coin,30,1,2
 clutter:thornbloom_seeds,clutter:copper_coin,30,1,2
 clutter:kiwi_seeds,clutter:copper_coin,30,1,2
-clutter:glowlily_seeds,clutter:copper_coin,30,1,2
+clutter:glowlily_seedling,clutter:copper_coin,30,1,2
 bakery:strawberry_seeds,clutter:copper_coin,30,1,2
 bakery:oat_seeds,clutter:copper_coin,30,1,2
 beachparty:palm_sapling,clutter:copper_coin,35,1,1
